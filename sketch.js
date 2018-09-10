@@ -16,6 +16,7 @@ function setup() {
     {
         particles[i]= new Particle();
     }
+    //Değiştirdim
 }
 
 
